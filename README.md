@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @marian-kamenistak
+👋 Hi, I’m @marian-kamenistak
 
-(kamenistak.com)[https://www.kamenistak.com]
+More at [kamenistak.com](https://www.kamenistak.com)
