@@ -1,3 +1,3 @@
 👋 Hi, I’m @marian-kamenistak
 
-More at [kamenistak.com](https://www.kamenistak.com)
+More about [Engineering management coaching and mentoring](https://www.kamenistak.com)
