@@ -1,18 +1,42 @@
+## Marian Kamenistak
 
-More about [Engineering management coaching and mentoring](https://www.marian.coach/)
+  **We build Silicon Valley-caliber leaders in the heart of Europe.**
 
-Engineering management mentoring is a professional development practice that involves an experienced and knowledgeable engineering manager providing guidance, support, and advice to a less experienced engineer or aspiring engineering manager. The mentor plays the role of a trusted advisor and provides the mentee with valuable insights, knowledge, and skills to navigate their engineering management career effectively.
+  Since 2019: 200+ engineering leaders mentored, 3,000+ sessions, 35+ fractional CTO projects across Europe, America,
+  Asia and Australia.
 
-The primary objective of engineering management mentoring is to enhance the mentee's professional growth and development by leveraging the mentor's experience and expertise. The mentor helps the mentee build a strong foundation of engineering management skills, develop leadership qualities, and gain a broader understanding of the business aspects of engineering.
+  We focus on Product, Technical and People Leaders — augmenting them into **Leaders Worth Following**.
 
-Here are some key aspects of engineering management mentoring:
+  - Our Leaders talk money and business
+  - Our Leaders take full ownership
+  - Our Leaders are talent magnets
+  - Our Leaders have and generate value
 
--  Knowledge and Skill Transfer: Mentoring facilitates the transfer of knowledge and skills from the mentor to the mentee. The mentor shares their experiences, best practices, and lessons learned from their own engineering management journey. This helps the mentee gain insights into real-world scenarios and learn how to handle various challenges effectively.
+  ---
 
-- Career Guidance: Mentoring provides valuable career guidance to the mentee. The mentor helps the mentee set career goals, identify areas for improvement, and create a roadmap for professional growth. They may provide advice on career paths, skill development opportunities, and strategies for advancement within the engineering management field.
+  ### What we do
 
-- Feedback and Support: Mentoring involves providing constructive feedback and support to the mentee. The mentor offers guidance on improving technical and managerial skills, provides feedback on the mentee's performance, and helps them identify areas where they can further enhance their capabilities.
+  **Talent & Brand**
+  - [ELC Community](https://www.engineeringleaders.io/) — 1,700+ members, 12 monthly meetups (200+ each)
+  - [ELC Conference](https://elc-conference.io/) — 500+ attendees, 90% of the CE tech & product scene
 
-- Networking and Relationship Building: Mentoring can also help the mentee expand their professional network and build relationships within the engineering management community. The mentor can introduce the mentee to other professionals, provide opportunities for networking, and offer guidance on how to establish meaningful connections within the industry.
+  **Talent & eNPS**
+  - [Mentoring Hub](https://mentoringhub.io) — Your internal mentors for product & tech, 2d/month
+  - [Leadership Academy](http://leadershipprogram.ai/) · [ITensity Labs](https://www.itensitylabs.cz)
+  - [Marian's List](https://www.marianslist.com) — Hiring and talent match
+  - [Leadership Radar](http://leadershipradar.io) — Independent talent assessments + development plans
 
-- Personal and Professional Development: Mentoring extends beyond technical knowledge and focuses on the mentee's personal and professional development. The mentor may provide guidance on developing communication skills, emotional intelligence, problem-solving abilities, and other essential competencies for engineering managers.
+  **Revenue & Systems**
+  - [Fractional CTO/VPE](https://www.engineeringleaders.pro) — On-site 2d/week
+  - [Tamira AI](https://www.tamira.ai) — Team leader AI agent healing teams
+
+  ---
+
+  ### Links
+
+  🔗 [marian.coach](https://www.marian.coach) · [LinkedIn](https://www.linkedin.com/in/mariankamenistak/) ·
+  [Blog](https://blog.marian.coach)
+
+  📢 **Speaker?** [Pick topics you love](https://www.engineeringleaders.io/open-topics)
+
+  👥 **Join 2k+ engineering leaders** → [engineeringleaders.io](https://www.engineeringleaders.io/)
