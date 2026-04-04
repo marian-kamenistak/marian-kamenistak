@@ -1,5 +1,5 @@
 
-More about [Engineering management coaching and mentoring](https://www.kamenistak.com)
+More about [Engineering management coaching and mentoring](https://www.marian.coach/)
 
 Engineering management mentoring is a professional development practice that involves an experienced and knowledgeable engineering manager providing guidance, support, and advice to a less experienced engineer or aspiring engineering manager. The mentor plays the role of a trusted advisor and provides the mentee with valuable insights, knowledge, and skills to navigate their engineering management career effectively.
 
