@@ -32,6 +32,26 @@
 
   ---
 
+  ### Free Claude / agent skills
+
+
+  MIT, public, install into any agent that reads SKILL.md:
+
+
+  | Skill | What it answers |
+
+  |---|---|
+
+  | [humanize-writing](https://github.com/marian-kamenistak/humanize-writing) | Why does this text sound like AI, and how do I fix it? |
+
+  | [team-lead-readiness](https://github.com/marian-kamenistak/team-lead-readiness) | Should I become a team lead? Verdict + top 2 gaps |
+
+  | [engineering-salary-calculator](https://github.com/marian-kamenistak/engineering-salary-calculator) | What is a developer or EM actually worth in 2026? |
+
+
+  ---
+
+
   ### Links
 
   🔗 [marian.coach](https://www.marian.coach) · [LinkedIn](https://www.linkedin.com/in/mariankamenistak/) ·
