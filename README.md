@@ -48,6 +48,8 @@
 
   | [engineering-salary-calculator](https://github.com/marian-kamenistak/engineering-salary-calculator) | What is a developer or EM actually worth in 2026? |
 
+  | [coaching-cost-calculator](https://github.com/marian-kamenistak/coaching-cost-calculator) | How much should a coach cost me? Fair range + red flags |
+
 
   ---
 
