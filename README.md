@@ -52,6 +52,12 @@
 
   | [wix-to-astro](https://github.com/marian-kamenistak/wix-to-astro) | How do I move my whole site off Wix into Astro without losing the design or the rankings? |
 
+  | [leadership-ratio-benchmark](https://github.com/marian-kamenistak/leadership-ratio-benchmark) | Is my engineering org top-heavy? |
+
+  | [partnership-business-case-builder](https://github.com/marian-kamenistak/partnership-business-case-builder) | How do I get a conference/community sponsorship budget approved? |
+
+  | [community-launch-readiness](https://github.com/marian-kamenistak/community-launch-readiness) | Should I start a local engineering-leadership meetup? |
+
 
   ---
 
