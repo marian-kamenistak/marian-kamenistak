@@ -58,6 +58,8 @@
 
   | [community-launch-readiness](https://github.com/marian-kamenistak/community-launch-readiness) | Should I start a local engineering-leadership meetup? |
 
+  | [community-partnership-builder](https://github.com/marian-kamenistak/community-partnership-builder) | Is sponsoring an engineering community worth it, and what exactly do we get? |
+
 
   ---
 
