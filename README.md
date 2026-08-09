@@ -50,6 +50,8 @@
 
   | [coaching-cost-calculator](https://github.com/marian-kamenistak/coaching-cost-calculator) | How much should a coach cost me? Fair range + red flags |
 
+  | [wix-to-astro](https://github.com/marian-kamenistak/wix-to-astro) | How do I move my whole site off Wix into Astro without losing the design or the rankings? |
+
 
   ---
 
