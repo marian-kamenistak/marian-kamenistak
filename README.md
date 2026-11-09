@@ -60,6 +60,8 @@
 
   | [community-partnership-builder](https://github.com/marian-kamenistak/community-partnership-builder) | Is sponsoring an engineering community worth it, and what exactly do we get? |
 
+  | [founder-pipeline](https://github.com/marian-kamenistak/founder-pipeline) | Should I build this business idea, or kill it before I start? |
+
 
   ---
 
