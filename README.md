@@ -62,6 +62,8 @@
 
   | [founder-pipeline](https://github.com/marian-kamenistak/founder-pipeline) | Should I build this business idea, or kill it before I start? |
 
+  | [digital-footprint-multiplier](https://github.com/marian-kamenistak/digital-footprint-multiplier) | How do I look to a recruiter or an AI screener, and what do I fix first? |
+
 
   ---
 
