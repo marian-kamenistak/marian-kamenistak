@@ -39,30 +39,37 @@
 
 
   | Skill | What it answers |
-
   |---|---|
-
   | [humanize-writing](https://github.com/marian-kamenistak/humanize-writing) | Why does this text sound like AI, and how do I fix it? |
-
   | [team-lead-readiness](https://github.com/marian-kamenistak/team-lead-readiness) | Should I become a team lead? Verdict + top 2 gaps |
-
   | [engineering-salary-calculator](https://github.com/marian-kamenistak/engineering-salary-calculator) | What is a developer or EM actually worth in 2026? |
-
   | [coaching-cost-calculator](https://github.com/marian-kamenistak/coaching-cost-calculator) | How much should a coach cost me? Fair range + red flags |
-
   | [wix-to-astro](https://github.com/marian-kamenistak/wix-to-astro) | How do I move my whole site off Wix into Astro without losing the design or the rankings? |
-
   | [leadership-ratio-benchmark](https://github.com/marian-kamenistak/leadership-ratio-benchmark) | Is my engineering org top-heavy? |
-
   | [partnership-business-case-builder](https://github.com/marian-kamenistak/partnership-business-case-builder) | How do I get a conference/community sponsorship budget approved? |
-
   | [community-launch-readiness](https://github.com/marian-kamenistak/community-launch-readiness) | Should I start a local engineering-leadership meetup? |
-
   | [community-partnership-builder](https://github.com/marian-kamenistak/community-partnership-builder) | Is sponsoring an engineering community worth it, and what exactly do we get? |
-
   | [founder-pipeline](https://github.com/marian-kamenistak/founder-pipeline) | Should I build this business idea, or kill it before I start? |
-
   | [digital-footprint-multiplier](https://github.com/marian-kamenistak/digital-footprint-multiplier) | How do I look to a recruiter or an AI screener, and what do I fix first? |
+  | [one-minute-pitch-scorer](https://github.com/marian-kamenistak/one-minute-pitch-scorer) | Is my one-minute pitch any good? Score out of 10 + three fixes |
+  | [engineering-promotion-case](https://github.com/marian-kamenistak/engineering-promotion-case) | Am I ready to ask for the promotion? Case score + one-page case |
+  | [first-90-days-leadership](https://github.com/marian-kamenistak/first-90-days-leadership) | I just started as team lead, EM, VP or CTO. What do I do in my first 90 days? |
+  | [one-on-one-with-manager](https://github.com/marian-kamenistak/one-on-one-with-manager) | What do I bring to my next 1:1 with my manager? |
+
+
+  ### Claude Code plugins
+
+  One marketplace, two plugins. In Claude Code:
+
+  ```
+  /plugin marketplace add marian-kamenistak/engineering-leadership-plugin
+  /plugin install marian-coach@marian-coach
+  ```
+
+  | Plugin | What it covers |
+  |---|---|
+  | [marian-coach](https://github.com/marian-kamenistak/engineering-leadership-plugin) | Your own career: nine skills, from "should I lead?" to your next 1:1 |
+  | [engineering-leadership](https://github.com/marian-kamenistak/engineering-leadership-plugin) | Your team and org: delivery KPIs from Jira, leadership ratio, meetup launch check |
 
 
   ---
